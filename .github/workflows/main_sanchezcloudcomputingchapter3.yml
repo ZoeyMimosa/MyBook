@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'sanchezcloudcomputingchapter3'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F980AF282CAF48E8BFB6F04CFA85B27E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ED63E212CD1C42BFBE8828E297BE06EE }}
           package: .
